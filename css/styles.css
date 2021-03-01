@@ -1,0 +1,22 @@
+body {
+  background-color: #8ac4d0;
+}
+
+hr {
+  border-style: dashed none none none;
+  border-color: #fbeeac;
+  border-width: 2px;
+  width: 7%;
+}
+
+h1 {
+  color: #28527a;
+}
+
+h3 {
+  color: #28527a;
+}
+
+a {
+  color: #28527a;
+}
