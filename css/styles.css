@@ -15,8 +15,15 @@ h1 {
 
 h3 {
   color: #28527a;
+  text-align: center;
 }
 
 a {
   color: #28527a;
+  /*display: block;*/
+}
+
+.links {
+  padding: 10px 10px 10px 10px;
+  text-align: center;
 }
