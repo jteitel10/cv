@@ -53,12 +53,14 @@ h1 {
 
 .comp-img {
   border-radius: 50%;
+  height: auto;
+  width: 25%;
 }
 
 .beer-img {
   border-radius: 50%;
   height: auto;
-  width: 400px;
+  width: 25%;
 }
 
 h3 {
