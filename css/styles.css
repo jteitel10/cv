@@ -24,6 +24,7 @@ h1 {
 
 .middle {
   background-color: #8ac4d0;
+  margin: 50px 50px;
 }
 
 .bottom {
@@ -83,5 +84,5 @@ a {
   line-height: 2;
 }
 .contact-me {
-  text-align: right;
+  text-align: center;
 }
