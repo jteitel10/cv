@@ -60,7 +60,7 @@ h1 {
 
 .beer-img {
   border-radius: 50%;
-  float: left;
+  float: right;
   margin-right: 30px;
   width: 25%;
 }
@@ -76,8 +76,12 @@ a {
   font-size: 0.75em;
 }
 
-.skill-row{
-  width:50%;
+.skill-row {
+  width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
+}
+.contact-me {
+  text-align: right;
+}
