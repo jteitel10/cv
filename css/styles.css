@@ -1,29 +1,72 @@
 body {
+  color: #28527a;
   background-color: #8ac4d0;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1.15rem;
+  margin: 0;
+  text-align: center;
 }
-
-hr {
-  border-style: dashed none none none;
-  border-color: #fbeeac;
-  border-width: 2px;
-  width: 7%;
+#IAM {
+  font-family: "Akaya Telivigala", cursive;
+  font-size: 4.525rem;
+  margin-top: 50px;
+}
+.top {
+  background-color: #8ac4d0;
+  padding-top: 75px;
+  position: relative;
 }
 
 h1 {
-  color: #28527a;
+  margin-top: 0;
+}
+
+.middle {
+  background-color: #8ac4d0;
+}
+
+.bottom {
+  background-color: #8ac4d0;
+}
+
+#city-img {
+  width: 1000px;
+  height: auto;
+}
+
+.pro {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+#top-cloud {
+  position: absolute;
+  right: 425px;
+  top: 50px;
+}
+#btm-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 500px;
+}
+
+.comp-img {
+  border-radius: 50%;
+}
+
+.beer-img {
+  border-radius: 50%;
+  height: auto;
+  width: 400px;
 }
 
 h3 {
-  color: #28527a;
-  text-align: center;
+  color: #fbeeac;
 }
 
 a {
-  color: #28527a;
-  /*display: block;*/
+  color: #f4d160;
 }
-
-.links {
-  padding: 10px 10px 10px 10px;
-  text-align: center;
+#foot {
+  font-size: 0.75em;
 }
