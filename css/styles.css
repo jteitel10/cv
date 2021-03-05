@@ -53,11 +53,13 @@ h1 {
 
 .comp-img {
   border-radius: 50%;
+  float: left;
   width: 25%;
 }
 
 .beer-img {
   border-radius: 50%;
+  float: left;
   width: 25%;
 }
 
